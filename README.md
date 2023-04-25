@@ -3,9 +3,12 @@
 
 Normal text
 
-# heading 1
 
-## heading 2
+#this is not heading
+# this is a Heading 1
+## this is a Heading 2
+### this is a Heading 
+
 
 Italic text:  
 _Italics_
@@ -13,7 +16,10 @@ _Italics_
 Bold:  
 **Strong**  
 
-~~1000~~ **9000**
+we will scratch here or StrikeThrough:  
+~~1000~~
+
+~~1000~~ **999**
 
 Links  
 [linkedin link](https://linked.in "linkedin")
@@ -27,18 +33,56 @@ Images:
 Tables:  
 | name | lastname | AGE |
 | --- | --- | --- |
-| Priyanka | RAHINJ | 25 | 
-| Priyanka | RAHINJ | 25 |
-| Priyanka | RAHINJ | 25 |
-| Priyanka | RAHINJ | 25 |
+| Priyanka | RAHINJ    | 25 | 
+| Priya    | Dhore     | 26 |
+| Ankita   | Pimpudkar | 26 |
+| Mayuri   | Pawar     | 27 |
 
+***
+# programming
 
 use `for` loop:
 
+now languages
+
+```c
+//this is code for c programming language
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Hello, World !");
+    return 0;
+}
+```
+
+
+```cpp
+//this is code for c++ programming language
+
+#include <iostream>  
+using namespace std;  
+
+int main()
+{
+    cout<<"Hello, World !";
+    return 0;
+
+}
+```
+
+
 ```java
-int a=15;
-System.out.println(a);
-```  
+//this is code for java programming language
+class Main
+{
+    public static void Main(String[] args)
+    {
+        System.out.println("Hello World !");
+    }
+}
+````
+
 # code
 >keep smiling and just do your work
 
