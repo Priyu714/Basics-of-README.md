@@ -38,12 +38,27 @@ use `for` loop:
 ```java
 int a=15;
 System.out.println(a);
-```
->Keep Smiling
+```  
+# code
+>keep smiling and just do your work
 
----
-1. list1  
-2. list2  
-1. list3
-***
-- list
+# List 
+1. List-item 1
+2. List-item 2
+3. List-item 3
+3. List-item 4  
+
+you see 4 is automatic instead of 3
+
+now unordered list
+
+- List-item
+- list-item 2
+- item 3
+
+now 
+
+- Main list 
+   
+   1. this is indented list items
+   1. this is indented list items
